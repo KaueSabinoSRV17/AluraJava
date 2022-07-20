@@ -1,18 +1,18 @@
-## Getting Started
+# A 1ª Imersão Java da Alura!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Introdução
 
-## Folder Structure
+Neste repositório há tudo que Codei na 1ª Imersão Java da Alura, que ocorreu na semana do dia 18/07/2022. Nesta Semana, foi tratado os seguintes temas:
 
-The workspace contains two folders by default, where:
+- Consumo de APIs
+- Leitura e Edição de Imagens
+- Orientação a Objetos (O mais importante!)
+- Criação das Próprias APIs
+- Hospedagem destas APIs
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## O Aplicativo alura-stickers
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O Aplicativo tem as seguintes funcionalidades:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Consumir a API do IMBD (ou similares) e printar no terminal dados que são recebidos através de JSON
+- Gerar imagens personalizadas por Código Java a partir dos endereços de imagens retornados dentro do JSON
